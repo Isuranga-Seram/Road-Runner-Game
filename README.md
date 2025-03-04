@@ -1,9 +1,11 @@
 # <h1 align="center">🏁 Road Runner Game
 
-![road-runner-screenshot]
+<p align="center">
+<img src="img/road-runner.png" alt="Road Runner Logo">
 <br>
 Screenshot - Road Runner Game
-<br><br>
+</p>
+<br>
 
 ## 🎮 Project Overview
 The **Road Runner Game** is a simple yet engaging game where players must navigate a runner along a road while avoiding obstacles. The goal is to survive as long as possible without crashing into obstacles. The game is built using **Java** and **JavaFX Scene Builder**, featuring smooth transitions and animations for an immersive gameplay experience.
