@@ -1,6 +1,7 @@
 # <h1 align="center">🏁 Road Runner Game
 
 ![road-runner-screenshot]
+<br>
 Screenshot - Road Runner Game
 <br><br>
 
